@@ -1,0 +1,72 @@
+# docs.github.com llms.txt
+
+> This documentation serves to guide developers in using the GitHub REST API, offering tutorials, best practices, and references to various API endpoints for efficient integration and usage.
+
+- [GitHub Classroom API Documentation](https://docs.github.com/en/rest/classroom/classroom): To document the REST API for interacting with GitHub Classroom, including accessing assignments and grading.
+- [GitHub REST API OpenAPI](https://docs.github.com/en/rest/about-the-rest-api/about-the-openapi-description-for-the-rest-api): Describes GitHub's OpenAPI for its REST API, providing resources and tools for integration and usage.
+- [GitHub REST API Documentation](https://docs.github.com/en/rest/about-the-rest-api/about-the-rest-api): This page offers documentation and resources for using GitHub's REST API effectively.
+- [GitHub REST API Quickstart](https://docs.github.com/en/rest/quickstart): Guide for using the GitHub REST API with CLI, curl, and JavaScript.
+- [Timezones and REST API](https://docs.github.com/en/rest/using-the-rest-api/timezones-and-the-rest-api): Explains how to handle timezone information in GitHub's REST API requests.
+- [GitHub REST API Guide](https://docs.github.com/en/rest/about-the-rest-api): Inform users about the GitHub REST API and its functionalities.
+- [GitHub Actions API Documentation](https://docs.github.com/en/rest/actions/hosted-runners): Provide API documentation for managing GitHub-hosted runners within GitHub Actions.
+- [GitHub Billing API](https://docs.github.com/en/rest/billing/billing): Detailing REST API endpoints for retrieving billing information on GitHub Actions and Packages for organizations and users.
+- [Securing API Credentials](https://docs.github.com/en/rest/authentication/keeping-your-api-credentials-secure): Guidance on securing API credentials and tokens for GitHub.
+- [GitHub Checks API Guide](https://docs.github.com/en/rest/guides/using-the-rest-api-to-interact-with-checks): Guide for using GitHub's REST API to manage checks in applications.
+- [Scripting with Octokit.rb](https://docs.github.com/en/rest/guides/scripting-with-the-rest-api-and-ruby): Teach users how to script with Ruby using the GitHub REST API via the Octokit.rb SDK.
+- [GitHub Activity API](https://docs.github.com/en/rest/activity): Documenting REST API endpoints for GitHub activity management.
+- [GitHub Actions API Documentation](https://docs.github.com/en/rest/actions/workflows): Interact with GitHub Actions workflows using the REST API.
+- [GitHub Copilot API](https://docs.github.com/en/rest/copilot): Manage GitHub Copilot Business subscriptions and access usage metrics through REST API documentation.
+- [Authentication Guide](https://docs.github.com/en/rest/authentication/authenticating-to-the-rest-api): Guide on how to authenticate to the GitHub REST API for accessing endpoints and increasing rate limits.
+- [Working with Comments](https://docs.github.com/en/rest/guides/working-with-comments): Guide to accessing and managing comments in GitHub pull requests, issues, and commits through the REST API.
+- [GitHub Actions OIDC API](https://docs.github.com/en/rest/actions/oidc): Documenting GitHub Actions OIDC REST API for managing OpenID Connect subject claims customization.
+- [GitHub Actions Artifacts API](https://docs.github.com/en/rest/actions/artifacts): Documenting REST API endpoints for managing GitHub Actions artifacts.
+- [Code Security Management](https://docs.github.com/en/rest/code-security): Manage and configure code security settings through the GitHub REST API.
+- [Discover GitHub Resources](https://docs.github.com/en/rest/guides/discovering-resources-for-a-user): Guide for discovering user repositories and organizations via GitHub REST API with authentication.
+- [GitHub API Best Practices](https://docs.github.com/en/rest/using-the-rest-api/best-practices-for-using-the-rest-api): This page outlines best practices for effectively using GitHub's REST API.
+- [Visualizing GitHub Data](https://docs.github.com/en/rest/guides/rendering-data-as-graphs): Guide to visualize programming languages in GitHub repositories using D3.js and Ruby Octokit.
+- [GitHub Codes of Conduct API](https://docs.github.com/en/rest/codes-of-conduct/codes-of-conduct): Provide API endpoints for accessing GitHub's codes of conduct.
+- [GitHub Marketplace API](https://docs.github.com/en/rest/apps/marketplace): Provides API documentation for interacting with GitHub Marketplace features and subscription management.
+- [GitHub API Branches](https://docs.github.com/en/rest/branches): Documenting REST API endpoints for managing branches and their protection settings on GitHub.
+- [GitHub API Feeds Documentation](https://docs.github.com/en/rest/activity/feeds): Documentation for GitHub's REST API endpoints related to user and organization activity feeds.
+- [GitHub REST API Documentation](https://docs.github.com/en/rest): This page serves as the documentation hub for GitHub's REST API, providing guides and best practices.
+- [GitHub REST API: Commits](https://docs.github.com/en/rest/commits): Documentation for GitHub's REST API related to commits and their management.
+- [GitHub Codespaces API](https://docs.github.com/en/rest/codespaces): Detailing REST API endpoints for managing GitHub Codespaces.
+- [GitHub REST API Guide](https://docs.github.com/en/rest/using-the-rest-api): To provide guidance on using the GitHub REST API, including best practices and troubleshooting techniques.
+- [API Versioning Guide](https://docs.github.com/en/rest/about-the-rest-api/api-versions): Explain how to specify and manage API versions in GitHub's REST API.
+- [Octokit.js Scripting Guide](https://docs.github.com/en/rest/guides/scripting-with-the-rest-api-and-javascript): Guide to using Octokit.js for scripting with the GitHub REST API.
+- [GitHub Event Types](https://docs.github.com/en/rest/using-the-rest-api/github-event-types): Describes various GitHub event types and their properties for the GitHub Events API.
+- [Using REST API with Git](https://docs.github.com/en/rest/guides/using-the-rest-api-to-interact-with-your-git-database): Guide for using GitHub's REST API to manage Git databases.
+- [Encrypting Secrets Guide](https://docs.github.com/en/rest/guides/encrypting-secrets-for-the-rest-api): Guide for encrypting secrets when using the GitHub REST API.
+- [Breaking Changes in API](https://docs.github.com/en/rest/about-the-rest-api/breaking-changes): Detail breaking changes in GitHub's REST API and guidance on upgrading integrations accordingly.
+- [GitHub API Versioning](https://docs.github.com/rest/overview/api-versions): Provide guidance on specifying and managing GitHub REST API versions.
+- [GitHub Copilot Metrics API](https://docs.github.com/en/rest/copilot/copilot-metrics): Access GitHub Copilot metrics through REST API for organizations and teams.
+- [Building a CI Server](https://docs.github.com/en/rest/guides/building-a-ci-server): Guide to building a continuous integration server using GitHub's Status API.
+- [GitHub Actions Cache API](https://docs.github.com/en/rest/actions/cache): Provides REST API documentation for managing GitHub Actions cache within repositories.
+- [GitHub Billing API](https://docs.github.com/en/rest/billing): Provides REST API documentation for accessing GitHub billing information for organizations and users.
+- [GitHub Apps Webhooks API](https://docs.github.com/en/rest/apps/webhooks): Documentation for managing webhooks for GitHub Apps via REST API.
+- [CORS and JSONP Guide](https://docs.github.com/en/rest/using-the-rest-api/using-cors-and-jsonp-to-make-cross-origin-requests): Explains how to use CORS and JSONP for making cross-origin API requests.
+- [GitHub REST API Guides](https://docs.github.com/en/rest/guides): This webpage offers tutorials and guidance for using GitHub's REST API effectively.
+- [Codespaces Repository Secrets API](https://docs.github.com/en/rest/codespaces/repository-secrets): Manage Codespaces repository secrets using the REST API, including creation, listing, updating, and deletion.
+- [GitHub Checks API](https://docs.github.com/en/rest/checks): Provides documentation for using GitHub's REST API to create checks in repositories.
+- [Enhanced Billing API Guide](https://docs.github.com/en/rest/billing/enhanced-billing): Guide on using GitHub's REST API for accessing enhanced billing usage information.
+- [Code Scanning API](https://docs.github.com/en/rest/code-scanning): Document REST API endpoints for managing code scanning alerts in GitHub repositories.
+- [API Authentication Guide](https://docs.github.com/en/rest/authentication): Guide for authenticating and securing REST API requests in GitHub.
+- [GitHub Classroom API Documentation](https://docs.github.com/en/rest/classroom): Provide REST API documentation for GitHub Classroom for developers.
+- [GitHub REST API Documentation](https://docs.github.com/en/rest?apiVersion=2022-11-28): To provide documentation and resources for using the GitHub REST API.
+- [GitHub Apps API](https://docs.github.com/en/rest/apps): Documentation for GitHub's REST API endpoints related to apps and installations.
+- [GitHub Actions Workflow Jobs API](https://docs.github.com/en/rest/actions/workflow-jobs): Provide API documentation for managing workflow jobs in GitHub Actions.
+- [GitHub REST API Guide](https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api): To guide users in utilizing the GitHub REST API effectively.
+- [GitHub Events API](https://docs.github.com/en/rest/activity/events): Provides REST API endpoints for accessing GitHub events and related functionalities.
+- [Codespaces Machines API](https://docs.github.com/en/rest/codespaces/machines): Manage machine types for GitHub Codespaces using the REST API.
+- [Using Pagination in API](https://docs.github.com/en/rest/using-the-rest-api/using-pagination-in-the-rest-api): Explain how to use pagination with GitHub's REST API for better data management.
+- [GitHub Actions REST API](https://docs.github.com/en/rest/actions): Document REST API endpoints for managing GitHub Actions functionality.
+- [Comparing GitHub APIs](https://docs.github.com/en/rest/about-the-rest-api/comparing-githubs-rest-api-and-graphql-api): This page compares GitHub's REST API and GraphQL API to help users choose the right tool for their needs.
+- [Libraries for GitHub API](https://docs.github.com/en/rest/using-the-rest-api/libraries-for-the-rest-api): This page outlines libraries available for interacting with the GitHub API across various programming languages.
+- [GitHub Codes of Conduct API](https://docs.github.com/en/rest/codes-of-conduct): Provide REST API endpoints for accessing codes of conduct information on GitHub.
+- [GitHub API Rate Limits](https://docs.github.com/en/rest/using-the-rest-api/rate-limits-for-the-rest-api): Explains GitHub's REST API rate limits and how to manage them effectively.
+- [GitHub Copilot Usage Metrics](https://docs.github.com/en/rest/copilot/copilot-usage): Access GitHub Copilot usage metrics for organizations and teams via REST API endpoints.
+- [Delivering Deployments](https://docs.github.com/en/rest/guides/delivering-deployments): Guide on using the Deployments REST API for project deployment management through GitHub.
+- [GitHub Documentation](https://docs.github.com/en): Comprehensive resource for navigating and utilizing GitHub's features and services.
+- [Issue Event Types](https://docs.github.com/en/rest/using-the-rest-api/issue-event-types): Detailing various issue event types and their properties in GitHub's REST API.
+- [REST API Troubleshooting](https://docs.github.com/en/rest/using-the-rest-api/troubleshooting-the-rest-api): This page helps users troubleshoot common issues with GitHub's REST API.
+- [GitHub API Collaborators Guide](https://docs.github.com/en/rest/collaborators): Guide for using GitHub's REST API to manage repository collaborators and invitations.
